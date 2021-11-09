@@ -1,1 +1,3 @@
 Fichero repo2
+nuevo dato >> repo1.txt
+echo nuevo dato
